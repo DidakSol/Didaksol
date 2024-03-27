@@ -1,4 +1,4 @@
-This is my profile [have a look 👋](https://github.com/DidakSol)
+`This is my profile` [have a look 👋](https://github.com/DidakSol)
 # A first-level heading
 `#000000`
 
