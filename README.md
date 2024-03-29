@@ -1,14 +1,13 @@
 `This is my profile` [have a look 👋](https://github.com/DidakSol)
-# A first-level heading
-`#000000`
+# This is my unic and special repositori from Diego Soler Gighub 
+`made in UK`
 
-### A third-level heading
+### I Am going to tell you a story
 
-**This is bold text**
-
-~~This was mistaken text~~
-This is a <sub>subscript</sub> text
-This is a <sup>superscript</sup> text
+**This my old style work**
+~~When I was young did have a electronic writting That I could delete put more or less info, I just had to scrable all. I quite like the old school when the pen didn't have a ink and we have to comunicate in person for ask borrow pen.~~
+All this scrable before I wrote is  because we are humans, that we born making mistakes, without them we will still cutting stones with piece of wood. I am one of the passionate generation of tech, that always became a question, how on earth two elecrons tells you a number <sub> then this is when all start</sub>. 
+When people sees other works that is not the style  <sup>sorry but you are on the bottom list</sup> then you realised , that the life is beatiful. 
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
@@ -21,29 +20,29 @@ This is a <sup>superscript</sup> text
 
 
 
-Here is a simple footnote[^1].
+I am very appasionate of coding[^1].
 
-A footnote can also have multiple lines[^2].
+How to code when you dont know just practice [^2].
 
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+[^1]: is a new virtual language. 
+[^2]: when you think don't know but reality you do in it. 
+  
 
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> I would write anything here unless my interest was for tech. 
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Smile when you see my mistakes, they not going to be there forever.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> First, think , second just code.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Urgent info that needs immediate user attention, check the code.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Advises about risks or negative feeling, try to ask and solve ASAP.
 <!--
 **DidakSol/Didaksol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
